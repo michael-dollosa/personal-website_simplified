@@ -13,7 +13,7 @@ const Header = () => {
         Hi, I'm <span className="highlight-primary">Dolee.</span>
       </div>
       <div className="description">
-        I am a former Service Level Manager under Information Technology and Services industry and is now on the path of career change. Currently studying and making projects using <span className="highlight-green">React JS</span>.
+        I code in <span className="highlight-green">React JS</span>.
 
       </div>
       <IconContext.Provider value={{ size: '2rem',className: 'react-icons' }}>
